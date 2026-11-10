@@ -1,0 +1,143 @@
+{
+  "timestamp": "2026-11-04T21:21:14.175Z",
+  "baseUrl": "http://localhost:3000",
+  "totalRoutesTested": 10,
+  "allTargetsMet": true,
+  "targets": {
+    "lcpMs": 2500,
+    "cls": 0.1,
+    "tbtMs": 200
+  },
+  "results": [
+    {
+      "name": "Institutional Homepage",
+      "path": "/",
+      "runs": 3,
+      "lcpMs": 2060,
+      "cls": 0,
+      "tbtMs": 268,
+      "ttfbMs": 1011,
+      "loadTimeMs": 2230,
+      "fcpMs": 2060,
+      "lcpTargetMet": true,
+      "clsTargetMet": true
+    },
+    {
+      "name": "Academic Catalogue",
+      "path": "/academics",
+      "runs": 3,
+      "lcpMs": 1745,
+      "cls": 0,
+      "tbtMs": 246,
+      "ttfbMs": 1016,
+      "loadTimeMs": 2030,
+      "fcpMs": 1745,
+      "lcpTargetMet": true,
+      "clsTargetMet": true
+    },
+    {
+      "name": "Programme Detail",
+      "path": "/academics/cambridge-igcse",
+      "runs": 3,
+      "lcpMs": 1795,
+      "cls": 0,
+      "tbtMs": 222,
+      "ttfbMs": 1048,
+      "loadTimeMs": 2075,
+      "fcpMs": 1795,
+      "lcpTargetMet": true,
+      "clsTargetMet": true
+    },
+    {
+      "name": "Staff Directory",
+      "path": "/staff",
+      "runs": 3,
+      "lcpMs": 1484,
+      "cls": 0,
+      "tbtMs": 626,
+      "ttfbMs": 751,
+      "loadTimeMs": 1804,
+      "fcpMs": 1484,
+      "lcpTargetMet": true,
+      "clsTargetMet": true
+    },
+    {
+      "name": "Staff Profile Detail",
+      "path": "/staff/dr-eleanor-vance",
+      "runs": 3,
+      "lcpMs": 1772,
+      "cls": 0,
+      "tbtMs": 259,
+      "ttfbMs": 876,
+      "loadTimeMs": 1904,
+      "fcpMs": 1772,
+      "lcpTargetMet": true,
+      "clsTargetMet": true
+    },
+    {
+      "name": "News & Operational Advisories",
+      "path": "/news",
+      "runs": 3,
+      "lcpMs": 1780,
+      "cls": 0,
+      "tbtMs": 242,
+      "ttfbMs": 869,
+      "loadTimeMs": 2016,
+      "fcpMs": 1780,
+      "lcpTargetMet": true,
+      "clsTargetMet": true
+    },
+    {
+      "name": "Events Calendar",
+      "path": "/events",
+      "runs": 3,
+      "lcpMs": 1279,
+      "cls": 0,
+      "tbtMs": 438,
+      "ttfbMs": 666,
+      "loadTimeMs": 1520,
+      "fcpMs": 1279,
+      "lcpTargetMet": true,
+      "clsTargetMet": true
+    },
+    {
+      "name": "Public Search Portal",
+      "path": "/search",
+      "runs": 3,
+      "lcpMs": 1419,
+      "cls": 0,
+      "tbtMs": 608,
+      "ttfbMs": 631,
+      "loadTimeMs": 1661,
+      "fcpMs": 1419,
+      "lcpTargetMet": true,
+      "clsTargetMet": true
+    },
+    {
+      "name": "Contact & Admissions Form",
+      "path": "/contact",
+      "runs": 3,
+      "lcpMs": 1600,
+      "cls": 0,
+      "tbtMs": 272,
+      "ttfbMs": 894,
+      "loadTimeMs": 1901,
+      "fcpMs": 1600,
+      "lcpTargetMet": true,
+      "clsTargetMet": true
+    },
+    {
+      "name": "Public Documents Repository",
+      "path": "/documents",
+      "runs": 3,
+      "lcpMs": 1729,
+      "cls": 0,
+      "tbtMs": 332,
+      "ttfbMs": 914,
+      "loadTimeMs": 2100,
+      "fcpMs": 1729,
+      "lcpTargetMet": true,
+      "clsTargetMet": true
+    }
+  ]
+}
